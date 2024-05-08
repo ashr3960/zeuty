@@ -4,7 +4,7 @@
     "host": "localhost",
     "port": 5432,
     "username": "postgres",
-    "password": "your_password",
+    "password": "password",
     "database": "zeuty",
     "synchronize": true,
     "logging": false,
